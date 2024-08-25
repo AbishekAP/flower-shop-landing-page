@@ -42,18 +42,18 @@ To get started with this project, follow these steps:
 
 You can modify the index.html and styles.css files to customize the landing page according to your needs. Here are some tips:
 
-    - HTML Changes: Update the content within the <body> tag to reflect your flower shop's information, products, and testimonials.
-    - CSS Changes: Adjust the styles in styles.css to match your brand's colors and design preferences.
+   HTML Changes: Update the content within the <body> tag to reflect your flower shop's information, products, and testimonials.
+   CSS Changes: Adjust the styles in styles.css to match your brand's colors and design preferences.
 
 ## Contributing
 
 Contributions are welcome! If you have suggestions or improvements, please follow these steps:
 
-    Fork the repository.
-    Create a new branch (git checkout -b feature-branch).
-    Make your changes and commit them (git commit -am 'Add new feature').
-    Push to the branch (git push origin feature-branch).
-    Open a Pull Request.
+   Fork the repository.
+   Create a new branch (git checkout -b feature-branch).
+   Make your changes and commit them (git commit -am 'Add new feature').
+   Push to the branch (git push origin feature-branch).
+   Open a Pull Request.
 
 ## License
 
